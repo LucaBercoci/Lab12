@@ -3,13 +3,9 @@ using namespace std;
 
 int main()
 {
-  int a,b;
   cout << "Hello world!";
   cout<<"Buna";
-  cout<<endl<<"a=";
-  cin>>a;
-  cout<<endl<<"b=";
-  cin>>b;
-  cout<<"a+b="<<a+b;
+  //Eusebiu nu stie sa lucreze cu GitHub
+  cout<< "Bonsoir Mitroi !" <<endl;
   return 0;
 }
