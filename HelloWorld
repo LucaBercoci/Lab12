@@ -1,4 +1,8 @@
 #include <iostream>
+//Bercoci Luca
+//Mitroi Andrei
+//Sava Eusebiu
+//Gruescu Victor
 
 int main()
 {
@@ -10,5 +14,6 @@ int main()
   std::cout<<endl<<"b=";
   std::cin>>b;
   std::cout<<"a+b="<<a+b;
+  
   return 0;
 }
